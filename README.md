@@ -108,14 +108,14 @@ Practice Questions – Solve past papers to improve accuracy and exam confidence
 
 | Scenario | Prompt Type | Quality | Accuracy | Depth  |
 | -------- | ----------- | ------- | -------- | ------ |
-| Story    | Naïve       | Medium  | Medium   | Low    |
-| Story    | Basic       | High    | High     | High   |
-| Factual  | Naïve       | Medium  | High     | Low    |
-| Factual  | Basic       | High    | High     | High   |
-| Summary  | Naïve       | Low     | Medium   | Low    |
-| Summary  | Basic       | High    | High     | Medium |
-| Advice   | Naïve       | Medium  | Medium   | Low    |
-| Advice   | Basic       | High    | High     | High   |
+| Story    | Basic       | Medium  | Medium   | Low    |
+| Story    | Refined     | High    | High     | High   |
+| Factual  | Basic       | Medium  | High     | Low    |
+| Factual  | Refined     | High    | High     | High   |
+| Summary  | Basic       | Low     | Medium   | Low    |
+| Summary  | Refined     | High    | High     | Medium |
+| Advice   | Basic       | Medium  | Medium   | Low    |
+| Advice   | Refined     | High    | High     | High   |
 
 **RESULT:**
 Basic prompts are quick but lack but refined prompts produce superior result.As refined prompt is best for getting better fit result and approximation.
